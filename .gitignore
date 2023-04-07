@@ -1,0 +1,10 @@
+*.classpath
+*.project
+.settings
+.factorypath
+.DS_Store
+target/
+dependency-reduced-pom.xml
+generated/
+/.metadata/
+.idea
